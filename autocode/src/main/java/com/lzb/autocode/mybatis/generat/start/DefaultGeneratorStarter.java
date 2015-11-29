@@ -138,8 +138,7 @@ public class DefaultGeneratorStarter implements GeneratorStarter {
         String columnPrimaryKey = propMap.get("primaryKey");
         String normalPrimaryKey = GeneratorStringUtils.format(propMap.get("primaryKey"));
 
-        GeneratorContext context = new GeneratorContext(tableName, upClassName, lowClassName,
-                packageName, primaryKeyType, primaryKey, properties);
+        GeneratorContext context = new GeneratorContext(tableName, upClassName, lowClassName, packageName, primaryKeyType, primaryKey, properties);
         context.addAttribute("connector", connector);
         context.addAttribute("properties", properties);
         context.addAttribute("columnPrimaryKey", columnPrimaryKey);
