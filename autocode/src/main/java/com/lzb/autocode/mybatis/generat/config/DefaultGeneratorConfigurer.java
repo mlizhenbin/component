@@ -43,6 +43,9 @@ public class DefaultGeneratorConfigurer implements GeneratorConfigurer {
         }
     }
 
+    /**
+     * 设置默认值配置
+     */
     public void initConfigParams() {
         initPackage();
         initProjectName();
@@ -52,6 +55,8 @@ public class DefaultGeneratorConfigurer implements GeneratorConfigurer {
         initLayers();
         initLocation();
         initJavaSrc();
+        initSuffixEmail();
+        initOrg();
     }
 
     protected void initPackage() {
@@ -135,6 +140,9 @@ public class DefaultGeneratorConfigurer implements GeneratorConfigurer {
         properties.setProperty("class.email.suffix", CLASS_SUFFIX);
     }
 
+    /**
+     * 加载读取配置
+     */
     protected void loadProperties() {
         List<String> dirAllFiles = listProjectDirAllFiles(System.getProperties().getProperty("user.dir"));
         if (CollectionUtils.isEmpty(dirAllFiles)) {
@@ -167,6 +175,12 @@ public class DefaultGeneratorConfigurer implements GeneratorConfigurer {
         }
     }
 
+    /**
+     * 扫描整个workspace的配置文件
+     *
+     * @param projectPath
+     * @return
+     */
     private static List<String> listProjectDirAllFiles(String projectPath) {
         List<String> fileNames = Lists.newArrayList();
         Vector<String> vector = new Vector<String>();

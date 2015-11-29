@@ -7,6 +7,9 @@ import com.lzb.autocode.mybatis.generat.utils.PropertiesUtils;
 import java.sql.*;
 import java.util.*;
 
+/**
+ * JDBC连接Mysql,获取连接信息
+ */
 public class MysqlConnector implements Connector {
 
     public Map<SessionType, Object> session = Maps.newHashMap();
