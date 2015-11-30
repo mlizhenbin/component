@@ -3,13 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>com.lzb.component</artifactId>
         <groupId>com.lzb.component</groupId>
+        <artifactId>component</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>com.lzb.compenent.webapp-lunch-starter</artifactId>
+    <artifactId>webapp-lunch-starter</artifactId>
 
     <properties>
         <jetty.version>9.2.13.v20150730</jetty.version>
