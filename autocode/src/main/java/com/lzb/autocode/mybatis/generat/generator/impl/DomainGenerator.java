@@ -1,11 +1,9 @@
 package com.lzb.autocode.mybatis.generat.generator.impl;
 
+import org.apache.velocity.VelocityContext;
+
 import com.lzb.autocode.mybatis.generat.generator.context.GeneratorContext;
 import com.lzb.autocode.mybatis.generat.generator.context.PackageConfigType;
-import org.apache.velocity.VelocityContext;
-import org.springframework.stereotype.Service;
-
-import java.util.Properties;
 
 /**
  * 功能描述：Domain代码生成器
