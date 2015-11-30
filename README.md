@@ -3,7 +3,7 @@
 
 Java业务组件组件
 
-## 一、mybatis autocode
+## 一、autocode
 通过JDBC连接Mysql， 读取MyMsql表结构的信息，自动化生成java业务代码
 
 ### 1、Maven Plugin方式：
