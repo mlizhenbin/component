@@ -1,8 +1,9 @@
 # component
-重构合并组件
+JAVA业务组件组件
 
-1、autocode
+# 一、autocode
 读取mysql表结构，自动化生成java业务代码
+
 
 2、excel
 java导入导出excel组件
