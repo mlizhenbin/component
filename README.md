@@ -1,5 +1,6 @@
 # Component
-version 1.0.0-SNAPSHOT 
+1.0.0-SNAPSHOT 
+
 JAVA业务组件组件
 
 # 一、Java Autocode
