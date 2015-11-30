@@ -16,8 +16,6 @@ Java业务组件组件
 
 创建一个包含main方法的类，调用GeneratorStarter的start()方法
 
-eg：
-
     public static void main(String[] args) {
         GeneratorStarter starter = new DefaultGeneratorStarter();
         starter.start();
@@ -31,8 +29,6 @@ Java导入导出excel文件业务组件
 ### 1、Export Excel
 调用ExportExcelFacade接口的方法，然后实现接口参数内部类
 
-eg：
-
 注入到Spring工厂中，调用方式：
 
     @Autoware
@@ -45,8 +41,6 @@ eg：
     
 ### 2、Import Excel
 调用ExportExcelFacade接口的方法，然后实现接口参数内部类
-
-eg：
 
 注入到Spring工厂中，调用方式：
 
