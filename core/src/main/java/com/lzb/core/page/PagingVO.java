@@ -1,5 +1,8 @@
 package com.lzb.core.page;
 
+import com.lzb.lang.NoNullStyle;
+import org.apache.commons.lang.builder.ToStringBuilder;
+
 /**
  * 功能描述：分页查询对象
  *
@@ -60,5 +63,10 @@ public class PagingVO {
 
     public void setEndTime(String endTime) {
         this.endTime = endTime;
+    }
+
+    @Override
+    public String toString() {
+        return ToStringBuilder.reflectionToString(this, new NoNullStyle());
     }
 }
