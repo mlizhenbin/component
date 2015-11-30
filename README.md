@@ -3,7 +3,7 @@
 
 Java业务组件组件
 
-## 一、Mybatis Autocode
+## 一、mybatis autocode
 通过JDBC连接Mysql， 读取MyMsql表结构的信息，自动化生成java业务代码
 
 ### 1、Maven Plugin方式：
@@ -23,10 +23,10 @@ Java业务组件组件
     
 
 
-## 二、Excel
+## 二、excel
 Java导入导出excel文件业务组件
 
-### 1、Export Excel
+### 1、export
 调用ExportExcelFacade接口的方法，然后实现接口参数内部类
 
 注入到Spring工厂中，调用方式：
@@ -39,7 +39,7 @@ Java导入导出excel文件业务组件
 @see com.lzb.excel.SimpleCreateTest
 
     
-### 2、Import Excel
+### 2、import
 调用ExportExcelFacade接口的方法，然后实现接口参数内部类
 
 注入到Spring工厂中，调用方式：
@@ -50,7 +50,7 @@ Java导入导出excel文件业务组件
 @see com.lzb.excel.ImportTest
 
 
-## 三、WebApp Lunch Starter
+## 三、webapp lunch
 Java Web项目集成应用web容器，自动化启动本地项目，调用WebAppTestServer接口start()方法
 
 ### 1、Jetty
