@@ -69,6 +69,6 @@ Java Web项目集成应用web容器，自动化启动本地项目，调用WebApp
 组件core部分，包含分页，配置字典，JDBC...
 
 ## 五、common-lang
-工具类
+常用工具类、帮助类等
 
 
