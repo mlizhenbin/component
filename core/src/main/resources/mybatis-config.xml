@@ -16,7 +16,7 @@
     </settings>
 
     <typeAliases>
-        <typeAlias alias="ConfigDict" type="com.lzb.core.direct.biz.dao.model.ConfigDict"/>
+        <typeAlias alias="ConfigDict" type="com.lzbruby.core.direct.biz.dao.model.ConfigDict"/>
     </typeAliases>
     <mappers>
         <mapper resource="com/lzb/core/direct/dao/mapper/ConfigDictMapper.xml"/>

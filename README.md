@@ -34,9 +34,9 @@ Java导入导出excel文件业务组件
     @Autoware
     private ExportExcelFacade exportExcelFacade
 
-@see com.lzb.excel.MultipleCreateTest
+@see MultipleCreateTest
 
-@see com.lzb.excel.SimpleCreateTest
+@see SimpleCreateTest
 
     
 ### 2、import
@@ -47,7 +47,7 @@ Java导入导出excel文件业务组件
     @Autoware
     private ImportedExcelFacade importedExcelFacade
     
-@see com.lzb.excel.ImportTest
+@see ImportTest
 
 
 ## 三、webapp lunch

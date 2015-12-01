@@ -1,7 +1,7 @@
 package webapp.satrt;
 
-import com.lzb.webapp.WebAppTestServer;
-import com.lzb.webapp.lunch.JettyWebAppTestServer;
+import com.lzbruby.webapp.WebAppTestServer;
+import com.lzbruby.webapp.lunch.JettyWebAppTestServer;
 
 /**
  * 功能描述：jetty测试启动器
