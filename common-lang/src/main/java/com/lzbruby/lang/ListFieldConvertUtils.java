@@ -212,7 +212,7 @@ public class ListFieldConvertUtils {
      * @return
      */
     @SuppressWarnings("unchecked")
-    private static <T, E> T getReflectValue(E e, String fieldName) {
+    public static <T, E> T getReflectValue(E e, String fieldName) {
         Class<?> clazz = e.getClass();
         // 查询属性在类中存不存在
         if (getReflectField(clazz, fieldName) == null) {
