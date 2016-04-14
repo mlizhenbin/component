@@ -106,6 +106,7 @@ public class DefaultListAdapter<T> extends DefaultFindAdapter<T> implements List
             dynamicFileds = new HashMap<String, Object>();
         }
         dynamicFileds.put("begin", getBegin());
+        dynamicFileds.put("end", getBegin() + pageSize);
         dynamicFileds.put("pageSize", pageSize);
         dynamicFileds.put("orderItem", orderItem);
         dynamicFileds.put("orderType", orderType);
@@ -130,9 +131,9 @@ public class DefaultListAdapter<T> extends DefaultFindAdapter<T> implements List
     /**
      * 排序的类型
      *
-     * @author longhao
-     * @since 2011-9-21 下午06:41:10
+     * @author lizhenbin
      * @version 1.0.0
+     * @since 2011-9-21 下午06:41:10
      */
     protected enum OrderType {
         ASC("ASC"),
