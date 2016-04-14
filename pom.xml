@@ -11,7 +11,7 @@
     <modules>
         <module>common-lang</module>
         <module>excel</module>
-        <module>webapp-lunch-starter</module>
+        <module>webapp-lunch</module>
         <module>core</module>
         <module>mvc</module>
     </modules>
