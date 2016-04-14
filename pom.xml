@@ -11,7 +11,6 @@
     <modules>
         <module>common-lang</module>
         <module>excel</module>
-        <module>autocode</module>
         <module>webapp-lunch-starter</module>
         <module>core</module>
     </modules>
