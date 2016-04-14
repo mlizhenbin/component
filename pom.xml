@@ -13,6 +13,7 @@
         <module>excel</module>
         <module>webapp-lunch-starter</module>
         <module>core</module>
+        <module>mvc</module>
     </modules>
 
     <properties>
