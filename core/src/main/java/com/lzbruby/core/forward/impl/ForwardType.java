@@ -6,8 +6,8 @@ import org.springframework.util.StringUtils;
  * 功能描述：分发模式类型
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/16 Time: 10:24
  */
 public enum ForwardType {

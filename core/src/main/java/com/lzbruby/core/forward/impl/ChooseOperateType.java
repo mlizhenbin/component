@@ -4,8 +4,8 @@ package com.lzbruby.core.forward.impl;
  * 功能描述：
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/14 Time: 11:38
  */
 public interface ChooseOperateType {

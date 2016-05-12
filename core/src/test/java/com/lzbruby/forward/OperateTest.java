@@ -11,8 +11,8 @@ import com.lzbruby.core.forward.impl.OperatorBeanManager;
  * 功能描述：调用测试描述
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/16 Time: 09:55
  */
 public class OperateTest {

@@ -11,8 +11,8 @@ import java.io.Serializable;
  * “” 打印
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/8/5 Time: 11:21
  */
 public class NoNullStyle extends ToStringStyle implements Serializable {

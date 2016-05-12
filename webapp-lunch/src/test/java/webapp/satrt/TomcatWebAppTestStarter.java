@@ -8,8 +8,8 @@ import com.lzbruby.webapp.lunch.TomcatWebAppTestServer;
  * 功能描述：tomcat测试启动器
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/8/24 Time: 16:15
  */
 public class TomcatWebAppTestStarter {

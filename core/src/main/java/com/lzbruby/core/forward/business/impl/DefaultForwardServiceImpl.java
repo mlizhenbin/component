@@ -10,8 +10,8 @@ import org.springframework.stereotype.Service;
  * 功能描述：Distribute默认实现
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/16 Time: 10:36
  */
 @Service("defaultForwardService")

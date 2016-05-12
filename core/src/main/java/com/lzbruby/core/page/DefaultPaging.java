@@ -8,8 +8,8 @@ import java.util.List;
  * 功能描述：默认的分页对象
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/9/9 Time: 10:50
  */
 public class DefaultPaging<T> implements Paging<T> {

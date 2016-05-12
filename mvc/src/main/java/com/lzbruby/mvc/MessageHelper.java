@@ -12,8 +12,8 @@ import java.util.Locale;
  * 功能描述：Spring Message扩展
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 16/3/21 Time: 14:36
  */
 public class MessageHelper implements MessageSourceAware {

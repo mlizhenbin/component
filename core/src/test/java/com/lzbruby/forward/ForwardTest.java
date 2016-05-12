@@ -9,8 +9,8 @@ import com.lzbruby.core.forward.impl.ForwardType;
  * facade分发模式测试
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/16 Time: 10:59
  */
 public class ForwardTest {

@@ -15,8 +15,8 @@ import java.util.*;
  * 功能描述: 获取配置字典上下文
  *
  * @author: lizhenbin
- * email: lizhenbin@oneplus.cn
- * company: 一加科技
+ * email: lizhenbin08@sina.cn
+ * company: org.lzbruby
  * Date: 2015/11/30 Time: 11:14:31
  */
 public class ConfigLoaderContext {

@@ -9,8 +9,8 @@ import java.util.List;
  * 功能描述：海外操作接口
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/14 Time: 12:19
  */
 public interface OverseaOperateService<E extends OperateContext, R> extends Operator {

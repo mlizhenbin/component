@@ -7,8 +7,8 @@ import org.apache.commons.lang.builder.ToStringBuilder;
  * 功能描述：分页查询对象
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/9/9 Time: 18:26
  */
 public class PagingVO {

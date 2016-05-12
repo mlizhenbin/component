@@ -6,8 +6,8 @@ import java.util.Map;
  * 功能描述：用于find查询的封装
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/9/9 Time: 11:13
  */
 public interface FindAdapter<T> {

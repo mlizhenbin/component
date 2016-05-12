@@ -11,8 +11,8 @@ import java.util.Map;
  * 功能描述：业务接口转发
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/16 Time: 10:27
  */
 public class ForwardFacade implements Forwarder {

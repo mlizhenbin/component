@@ -10,8 +10,8 @@ import java.security.NoSuchAlgorithmException;
  * 功能描述：MD5加密工具类
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/6/12 Time：23:41
  */
 public class MD5Utils {

@@ -6,8 +6,8 @@ import org.apache.commons.lang.StringUtils;
  * 功能描述：支持的业务类型
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/14 Time: 11:38
  */
 public enum OperateType {

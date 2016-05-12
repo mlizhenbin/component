@@ -12,8 +12,8 @@ import java.util.Map;
  * <p>保存条数、第几页、排序规则、查询的起始时间和结束时间等分页请求信息</p>
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/9/9 Time: 10:01
  */
 public class PagingRequest implements Serializable {

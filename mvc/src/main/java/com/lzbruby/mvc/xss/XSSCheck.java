@@ -10,8 +10,8 @@ import java.lang.annotation.Target;
  * 功能描述：WEB XSS处理
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/10/27 Time: 15:30
  */
 @Target(ElementType.METHOD)
