@@ -1,4 +1,4 @@
-package org.lzbruby.algorithm;
+package org.lzbruby.algorithm.lru;
 
 import org.junit.Test;
 import org.slf4j.Logger;
