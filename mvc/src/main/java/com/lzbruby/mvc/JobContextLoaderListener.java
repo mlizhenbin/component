@@ -21,8 +21,8 @@ import java.util.Properties;
  * 功能描述：Spring启动时, 控制加载Spring加载Job配置文件
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 16/1/8 Time: 10:45
  */
 public class JobContextLoaderListener extends ContextLoaderListener {

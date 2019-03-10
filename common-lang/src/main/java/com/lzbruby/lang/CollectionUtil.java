@@ -11,8 +11,8 @@ import java.util.*;
  * 功能描述: CollectionUtil工具方法
  *
  * @author: lizhenbin
- * email: lizhenbin@oneplus.cn
- * company: 一加科技
+ * email: lizhenbin08@sina.cn
+ * company: org.lzbruby
  * Date: 2015/07/06 Time: 15:33:04
  */
 public class CollectionUtil {

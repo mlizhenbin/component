@@ -15,8 +15,8 @@ import java.util.*;
  * 功能描述：JSON操作工具类
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/11 Time: 10:47
  */
 public class JacksonUtil {

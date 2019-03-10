@@ -9,8 +9,8 @@ import java.io.Serializable;
  * 功能描述: ConfigDict Model
  *
  * @author: lizhenbin
- * email: lizhenbin@oneplus.cn
- * company: 一加科技
+ * email: lizhenbin08@sina.cn
+ * company: org.lzbruby
  * Date: 2015/11/30 Time: 11:14:32
  */
 public class ConfigDict implements Serializable {

@@ -8,8 +8,8 @@ import java.util.List;
  * <p>包含数据信息、每页条数、当前页数、总条数等信息</p>
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/9/9 Time: 10:03
  */
 public interface Paging<T> extends Serializable, Iterable<T> {

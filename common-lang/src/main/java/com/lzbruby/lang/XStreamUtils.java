@@ -7,8 +7,8 @@ import com.thoughtworks.xstream.io.xml.DomDriver;
  * 功能描述：XStream工具类，将XML与JAVA对象之间互相转换工具类
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/30 Time: 10:31
  */
 public class XStreamUtils {

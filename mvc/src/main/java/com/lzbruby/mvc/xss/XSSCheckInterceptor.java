@@ -18,8 +18,8 @@ import java.util.Map;
  * 功能描述：WMS对XSS拦截
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/10/27 Time: 15:24
  */
 public class XSSCheckInterceptor extends HandlerInterceptorAdapter {

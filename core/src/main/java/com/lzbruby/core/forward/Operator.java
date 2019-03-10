@@ -10,8 +10,8 @@ import java.util.List;
  * 功能描述：业务操作公共接口
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/14 Time: 11:36
  */
 public interface Operator<E extends OperateContext, R> extends ChooseOperateType {

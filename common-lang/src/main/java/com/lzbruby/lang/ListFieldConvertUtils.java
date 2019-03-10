@@ -29,8 +29,8 @@ import java.util.*;
  * Object[] inStorageArray = ListFieldConvertUtils.getFieldElementArray(transferOutDTOList, "inStorage");
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15-07-03 Time：下午12:29
  */
 public class ListFieldConvertUtils {

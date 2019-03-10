@@ -15,8 +15,8 @@ import java.util.Map;
  * 功能描述：操作接口管理器
  *
  * @author: Zhenbin.Li
- * email： lizhenbin@oneplus.cn
- * company：一加科技
+ * email： lizhenbin08@sina.cn
+ * company：org.lzbruby
  * Date: 15/11/14 Time: 11:57
  */
 public class OperatorBeanManager implements ApplicationContextAware {
