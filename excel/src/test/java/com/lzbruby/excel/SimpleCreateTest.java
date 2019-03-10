@@ -68,6 +68,18 @@ public class SimpleCreateTest {
      */
     public void doCreate() {
 
+        exportExcelFacade.export(new DefaultExportExcelAdapter<Object>() {
+            @Override
+            public void handleExportData(List<Object> list, List<String[]> excelData) {
+
+            }
+
+            @Override
+            public void init(ExportExcelContext<Object> exportContext) {
+
+            }
+        });
+
         final List<SimpleEntity> simpleEntities = getSimpleEntities();
 
         exportExcelFacade.export(new DefaultExportExcelAdapter<SimpleEntity>() {
